@@ -9,5 +9,6 @@ Note: this was written with Jupyter Notebook, in an iPython notebook file, so fo
 (http://jupyter.org/install.html)
 
 This program creates several files during its iteration. This is to facilitate reading and writing. CSVs are better for writing and 
-excel files are better for reading. 
+excel files are better for reading. Ignore the warning when opening the final excel file. It has proven to not change the values
 
+![Files created](filesfromprgm.png)
