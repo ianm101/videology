@@ -8,6 +8,9 @@ Python script that pulls data from a Videology Report and categorizes them
 Note: this was written with Jupyter Notebook, in an iPython notebook file, so for best results load the .ipynb file into the notebook environment and go from there
 (http://jupyter.org/install.html)
 
+Also trains the Gensim Word2Vec model on a Google Dataset, linked here:
+https://github.com/mmihaltz/word2vec-GoogleNews-vectors
+
 This program creates several files during its iteration. This is to facilitate reading and writing. CSVs are better for writing and 
 excel files are better for reading. Ignore the warning when opening the final excel file. It has proven to not change the values
 
